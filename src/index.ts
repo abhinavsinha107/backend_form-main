@@ -40,3 +40,18 @@ app.listen(PORT, () => {
 
 // Routes
 app.use("/api/auth", authRoutes);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//MONGO_URL=mongodb+srv://abhinavsinha135:abhinavsinha135@cluster0.kaygbwk.mongodb.net/reactReduxAuth?retryWrites=true&w=majority
